@@ -1,0 +1,7 @@
+__pycache__/*
+*/__pycache__/*
+*.sw*
+database/*.db
+BOT_TOKEN
+.vscode/*
+*.log

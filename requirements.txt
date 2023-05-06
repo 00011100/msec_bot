@@ -1,0 +1,7 @@
+discord
+asyncio
+orator
+nmap
+python3-nmap
+python-nmap
+discord-flags

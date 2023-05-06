@@ -1,0 +1,5 @@
+databases:
+  default:
+    driver: sqlite
+    database: database/main.db
+
